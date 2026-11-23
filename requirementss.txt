@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+vaderSentiment
+anthropic
+requests
+alpaca-py
